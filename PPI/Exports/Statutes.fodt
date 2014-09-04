@@ -272,10 +272,10 @@
 
 <text:h text:outline-level="3"><text:bookmark text:name="name"/>Name<text:bookmark-end text:name="name"/></text:h>
 
-<text:list text:style-name="L2"><text:list-item>
-<text:p text:style-name="P2">The name of the association is Pirate Parties International. The official abbreviation is PPI.</text:p></text:list-item>
+<text:list text:style-name="L1"><text:list-item>
+<text:p text:style-name="P1">The name of the association is Pirate Parties International. The official abbreviation is PPI.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">The association is not for profit. The rights and duties of the association and its Members shall be disjunct.</text:p></text:list-item>
+<text:p text:style-name="P1">The association is not for profit. The rights and duties of the association and its Members shall be disjunct.</text:p></text:list-item>
 </text:list>
 
 <text:h text:outline-level="2"><text:bookmark text:name="tasksandgoals"/>Tasks and goals<text:bookmark-end text:name="tasksandgoals"/></text:h>
@@ -283,27 +283,47 @@
 <text:h text:outline-level="3"><text:bookmark text:name="goals"/>Goals<text:bookmark-end text:name="goals"/></text:h>
 
 <text:list text:style-name="L2"><text:list-item>
-<text:p text:style-name="P2">The goals of the association are:
- a. to act according to the major interests and goals of its Members,
- b. to raise awareness and widen the spread of the pirate movement, and
- c. to support the pirate movement and strengthen its bonds internally and externally,
- d. to promote and support Human Rights and Fundamental Freedoms.</text:p>
+<text:p text:style-name="P2">The goals of the association are:</text:p>
 </text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">To accomplish these objectives the association shall, among other things:
- a. provide for and extend communication between the Members of the association,
- b. assist in the foundation of new pirate parties,
- c. organize and coordinate global campaigns and events,
- d. act as mediator or arbitrator for any disputes between Members if requested to do so,
- e. share information and coordinate research on the core pirate topics,
- f. contact NGO&#8217;s, administrations and international organizations, and
- g. act as a contact centre for the pirate movement.</text:p>
+<text:p text:style-name="P2">Act according to the major interests and goals of its Members.</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Raise awareness and widen the spread of the pirate movement.</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Support the pirate movement and strengthen its bonds internally and externally.</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Promote and support Human Rights and Fundamental Freedoms.</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">To accomplish these objectives the association shall, among other things:</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Provide for and extend communication between the Members of the association,</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Assist in the foundation of new pirate parties,</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Organize and coordinate global campaigns and events,</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Act as mediator or arbitrator for any disputes between Members if requested to do so,</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Share information and coordinate research on the core pirate topics,</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Contact NGO&#8217;s, administrations and international organizations, and</text:p>
+</text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Act as a contact centre for the pirate movement.</text:p>
 </text:list-item>
 </text:list>
 
 <text:h text:outline-level="2"><text:bookmark text:name="membership"/>Membership<text:bookmark-end text:name="membership"/></text:h>
-
-<text:h text:outline-level="3"><text:bookmark text:name="membership"/>Membership<text:bookmark-end text:name="membership"/></text:h>
 
 <text:list text:style-name="L2"><text:list-item>
 <text:p text:style-name="P2">Membership in the Pirate Parties International is open to Parties and other organizations.</text:p></text:list-item>
@@ -312,9 +332,11 @@
 <text:list-item>
 <text:p text:style-name="P2">Requests for Membership shall be submitted in writing to the Board at least four weeks before the meeting of the General Assembly. They shall include contact information and a statement on the adoption of the statutes and internal regulations of the Pirate Parties International, in addition to a copy of the statutes and by-laws and the political program of the applicant and information on the background and organization of said applicant. The Board will transmit the application to all Members at least two weeks before the meeting of the General Assembly.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">The General Assembly is authorized to grant, at its own discretion, the applicant one of the following Member status in Pirate Parties International
- a. Ordinary Member
- b. Observer Member</text:p></text:list-item>
+<text:p text:style-name="P2">The General Assembly is authorized to grant, at its own discretion, the applicant one of the following Member status in Pirate Parties International</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Ordinary Member</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Observer Member</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">The Members are obliged to respect the Statutes, internal regulations and rules of procedure, in particular abide by the decisions of the <text:a xlink:type="simple" xlink:href="#courtofarbitration">Court of Arbitration</text:a>.</text:p></text:list-item>
 </text:list>
@@ -322,19 +344,27 @@
 <text:h text:outline-level="3"><text:bookmark text:name="ordinarymembers"/>Ordinary Members<text:bookmark-end text:name="ordinarymembers"/></text:h>
 
 <text:list text:style-name="L2"><text:list-item>
-<text:p text:style-name="P2">The Ordinary Members are the founding Members and those accepted by the General Assembly according to section III, paragraph (4). To Ordinary Membership are eligible Members that
- a. adhere to these statutes and the goals of the association as laid down by these statutes,
- b. use the inflection of the word Pirate in their name, and
- c. have an inner order based on democratic principles.</text:p></text:list-item>
+<text:p text:style-name="P2">The Ordinary Members are the founding Members and those accepted by the General Assembly according to article 3 of this subsection.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Ordinary Membership are eligible Members that:</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Adhere to these statutes and the goals of the association as laid down by these statutes.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Use the inflection of the word Pirate in their name.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Have an inner order based on democratic principles.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">There can be multiple Ordinary Members per sovereign state. In this case, the voting power of this sovereign state is split between these Members.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">The General Assembly is authorized to grant Member status in Pirate Parties International to any Pirate party, which subscribes to the association’s principles and accepts its statutes and internal regulations.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">Ordinary Members have the right to
- a. sit and vote in the General Assembly,
- b. nominate candidates for any body of the association, and
- c. submit motions to the General Assembly.</text:p></text:list-item>
+<text:p text:style-name="P2">Ordinary Members have the right to:</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Sit and vote in the General Assembly.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Nominate candidates for any body of the association.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Submit motions to the General Assembly.</text:p></text:list-item>
 </text:list>
 
 <text:h text:outline-level="3"><text:bookmark text:name="observermembers"/>Observer Members<text:bookmark-end text:name="observermembers"/></text:h>
@@ -342,19 +372,27 @@
 <text:list text:style-name="L2"><text:list-item>
 <text:p text:style-name="P2">An applicant that does not meet the criteria for Ordinary Membership may be granted Observer Member status by the General Assembly.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">Observer Members have the right to
- a. sit in the General Assembly but with no voting right,
- b. nominate candidates for any body of the association, and
- c. submit motions to the General Assembly.</text:p></text:list-item>
+<text:p text:style-name="P2">Observer Members have the right to:</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Sit in the General Assembly but with no voting right.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Nominate candidates for any body of the association.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Submit motions to the General Assembly.</text:p></text:list-item>
 </text:list>
 
 <text:h text:outline-level="3"><text:bookmark text:name="multipleapplicantsfromonesovereignstate"/>Multiple applicants from one sovereign state<text:bookmark-end text:name="multipleapplicantsfromonesovereignstate"/></text:h>
 
 <text:list text:style-name="L2"><text:list-item>
-<text:p text:style-name="P2">If there are multiple applicants for Ordinary Membership status, they are encouraged to join together into a Federation or Confederation based on the common Pirate purpose. It is the responsibility of each Federation or Confederation to ensure that all its constituent Associations meet the requirements of these statutes. (2) If a Federation or Confederation cannot be agreed on, the voting power of this state is split between these Members. The splitting method is, in order of preference :
- a. consensus between all Ordinary Members of this sovereign state ;
- b. compromise between all Ordinary Members of this sovereign state, with the help of a Registered Moderator from the Court of Arbitration ;
- c. decision by the Court of Arbitraton within the limits contained in proposals given by Ordinary Members from the sovereign state.</text:p></text:list-item>
+<text:p text:style-name="P2">If there are multiple applicants for Ordinary Membership status, they are encouraged to join together into a Federation or Confederation based on the common Pirate purpose. It is the responsibility of each Federation or Confederation to ensure that all its constituent Associations meet the requirements of these statutes.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">If a Federation or Confederation cannot be agreed on, the voting power of this state is split between these Members. The splitting method is, in order of preference:</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">consensus between all Ordinary Members of this sovereign state ;</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">compromise between all Ordinary Members of this sovereign state, with the help of a Registered Moderator from the Court of Arbitration ;</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">decision by the Court of Arbitraton within the limits contained in proposals given by Ordinary Members from the sovereign state.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">As long as none of the preferred methods comes into action, the voting power of the sovereign state is split equally between its Ordinary Members.</text:p></text:list-item>
 </text:list>
@@ -366,7 +404,7 @@
 <text:list-item>
 <text:p text:style-name="P2">The decisions on the changes of Membership, such as suspension, reinstatement and exclusion, fall within the competence of the Court of Arbitration, and can be appealed to the General Assembly. If the Member appeals, the decision becomes effective at the end of the Meeting of the General Assembly, unless the General Assembly decides otherwise. A proposal for the exclusion of a Member may only be submitted by the Board, or by a tenth of Members from three different continents.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">A Member’s affiliation ceases automatically upon dissolution, disqualification, liquidation or in cases of temporary administration, court-ordered settlement or insolvency. The Membership also ends automatically when this Member does no longer fulfill the criteria that were necessary for its preliminary recognition as a Member.</text:p></text:list-item>
+<text:p text:style-name="P2">A Member&#8217;s affiliation ceases automatically upon dissolution, disqualification, liquidation or in cases of temporary administration, court-ordered settlement or insolvency. The Membership also ends automatically when this Member does no longer fulfill the criteria that were necessary for its preliminary recognition as a Member.</text:p></text:list-item>
 </text:list>
 
 <text:h text:outline-level="3"><text:bookmark text:name="membershipregister"/>Membership Register<text:bookmark-end text:name="membershipregister"/></text:h>
@@ -396,15 +434,15 @@
 <text:h text:outline-level="3"><text:bookmark text:name="functionsofthegeneralassembly"/>Functions of the General Assembly<text:bookmark-end text:name="functionsofthegeneralassembly"/></text:h>
 
 <text:p text:style-name="Standard">The functions of the General Assembly are:
-a. to consider the policies and standards of the Pirate Movement throughout the world and take such action as shall further the goals of Pirate Parties International,
-b. to formulate the general policy of Pirate Parties International,
-c. to consider applications for Membership and decide as to the exclusion of Members,
-d. to hold elections of the Board, and other committees,
-e. to consider reports and recommendations presented by the Board,
-f. to consider recommendations brought forward by Member Organizations,
-g. to consider proposed amendments to these statutes,
-h. to accept internal regulations for the Pirate Parties International and to exercise other functions resulting from these Statutes, and
-i. to define specific, measurable, achievable, relevant and time-framed goals for the upcoming period. The goals should be prioritized if possible.</text:p>
+1. To consider the policies and standards of the Pirate Movement throughout the world and take such action as shall further the goals of Pirate Parties International.
+2. To formulate the general policy of Pirate Parties International.
+3. To consider applications for Membership and decide as to the exclusion of Members.
+4. To hold elections of the Board, and other committees.
+5. To consider reports and recommendations presented by the Board.
+6. To consider recommendations brought forward by Member Organizations.
+7. To consider proposed amendments to these statutes.
+8. To accept internal regulations for the Pirate Parties International and to exercise other functions resulting from these Statutes.
+9. To define specific, measurable, achievable, relevant and time-framed goals for the upcoming period. The goals should be prioritized if possible.</text:p>
 
 <text:h text:outline-level="3"><text:bookmark text:name="voting"/>Voting<text:bookmark-end text:name="voting"/></text:h>
 
@@ -412,13 +450,15 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:p text:style-name="P2">All votes are public.
  a. Each sovereign state with at least one Ordinary Member shall have one vote and resolutions shall be taken by a simple majority of the sum of the votes of the Ordinary Members present or represented and voting. In the event of a tie, the motion is defeated.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">Decisions concerning the admission of new Members (section III. paragraph 4), the exclusion of Members (section VII, paragraph 2), the determination of the annual affiliation fee (section XVI, paragraph 1) and the amendment of this Statutes (section XX), shall be passed by a two thirds majority of the votes cast.</text:p></text:list-item>
+<text:p text:style-name="P2">Decisions concerning the admission of new <text:a xlink:type="simple" xlink:href="#membership">Members</text:a>, the <text:a xlink:type="simple" xlink:href="#terminationofmembership">exclusion</text:a> of Members, the determination of the annual <text:a xlink:type="simple" xlink:href="#affiliationfees">affiliation fee</text:a> and the <text:a xlink:type="simple" xlink:href="#amendments">amendment</text:a> of these Statutes, shall be passed by a two thirds majority of the votes cast.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">An Ordinary Member which is unable to be present at a meeting of the General Assembly may vote by proxy given to another Member, but no Member may accept more than one proxy.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">A permanent online e-Democracy system allowing for decision making of General Assembly between its meetings shall be put in place where issues can be raised, initiatives started, suggestions made, and progress checked until a final vote can be cast.
- a. Issues and initiatives can be raised and started by the Board and anyone else who can submit motions to the General Assembly;
- b. An issue not raised by the Board needs a support of one third of the Members in order for its initiatives to be voted.</text:p></text:list-item>
+<text:p text:style-name="P2">A permanent online e-Democracy system allowing for decision making of General Assembly between its meetings shall be put in place where issues can be raised, initiatives started, suggestions made, and progress checked until a final vote can be cast.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Issues and initiatives can be raised and started by the Board and anyone else who can submit motions to the General Assembly.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">An issue not raised by the Board needs a support of one third of the Members in order for its initiatives to be voted.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">Any Ordinary Member which has failed to pay its annual affiliation fee up to and including the end of the fiscal year preceding the General Assembly meeting shall forfeit its right to vote at that meeting of the General Assembly, unless remission or postponement of dues has received prior authorization from the Board.</text:p></text:list-item>
 <text:list-item>
@@ -428,11 +468,17 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:h text:outline-level="4"><text:bookmark text:name="revocation"/>Revocation<text:bookmark-end text:name="revocation"/></text:h>
 
 <text:list text:style-name="L2"><text:list-item>
-<text:p text:style-name="P2">At any time, Ordinary Members wielding at least a fifth of the voting power can initiate the revocation of a PPI officer by calling upon the Court of Arbitration. The Council of the Court of Arbitration can reject the revocation request if it is not supported by enough of the Ordinary Members, if an election for the seat took place less than a month ago or will take place within a month, or another revocation process of the same PPI officer is already in progress.</text:p></text:list-item>
+<text:p text:style-name="P2">At any time, Ordinary Members wielding at least a fifth of the voting power can initiate the revocation of a PPI officer by calling upon the Court of Arbitration. The Council of the Court of Arbitration can reject the revocation request if:</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">When the request is valid, within seven days the Council of the Court of Arbitration warns the Members of the revocation process, and opens an internal consultation of seven days to collect grievances against the concerned PPI officer. The Council of the Court of Arbitration then has seven days to send him a synthesis of the grievances.</text:p></text:list-item>
+<text:p text:style-name="P2">It is not supported by enough of the Ordinary Members.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">The PPI officer has seven days to answer. At reception of his answer, or at the end of the time, the Council of the Court of Arbitration organizes a postal referendum on the revocation of the PPI officer with the synthesis of the grievances and, if any, his answer. If the revocation is voted, the PPI officer&#8217;s seat is treated as vacant and this person cannot occupy the same seat until the following General Assembly.</text:p></text:list-item>
+<text:p text:style-name="P2">If an election for the seat took place less than a month ago or will take place within a month.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Another revocation process of the same PPI officer is already in progress.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">When the request is valid, within seven days the Council of the Court of Arbitration warns the Members of the revocation process, and opens an internal consultation of seven days to collect grievances against the concerned PPI officer. The Council of the Court of Arbitration then has seven days to send them a synthesis of the grievances.</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">The PPI officer has seven days to answer. At reception of their answer, or at the end of the time, the Council of the Court of Arbitration organizes a postal referendum on the revocation of the PPI officer with the synthesis of the grievances and, if any, their answer. If the revocation is voted, the PPI officer&#8217;s seat is treated as vacant and this person cannot occupy the same seat until the following General Assembly.</text:p></text:list-item>
 </text:list>
 
 <text:h text:outline-level="2"><text:bookmark text:name="board"/>Board<text:bookmark-end text:name="board"/></text:h>
@@ -444,14 +490,18 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:list-item>
 <text:p text:style-name="P2">The Board and the Alternate Members are elected by the General Assembly at the regular sessions or if an extraordinary session is requested for that purpose.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">The Board is composed of:
- a. two Co-Chairmen,
- b. five Board Members</text:p></text:list-item>
+<text:p text:style-name="P2">The Board is composed of:</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">The Board elects among the Board Members
- a. a Treasurer and
- b. a Chief of Administration
- No Board Member shall fulfil more than one office.</text:p></text:list-item>
+<text:p text:style-name="P2">Two Co-Chairmen,</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">Five Board Members</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">The Board elects among the Board Members</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">A Treasurer and</text:p></text:list-item>
+<text:list-item>
+<text:p text:style-name="P2">A Chief of Administration
+No Board Member shall fulfil more than one office.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">Other positions may be created by the Board.</text:p></text:list-item>
 <text:list-item>
@@ -464,15 +514,15 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 
 <text:list text:style-name="L2"><text:list-item>
 <text:p text:style-name="P2">The functions of the Board are:
- a. to act on behalf of the General Assembly between its meetings; to give effect to its decisions, recommendations and policies; and to represent it at international and national events,
- b. to promote the Pirate Movement throughout the world by means of visits, correspondence, training courses and other appropriate action,
- c. to advise and assist Member Organizations,
- d. to recommend the admission of Organizations applying for Membership,
- e. to prepare the agenda and procedure of the meetings of the General Assembly, giving consideration to suggestions from Member Organizations, and appoint the Chairperson and Vice-Chairperson of the General Assembly meeting,
- f. to appoint the Secretary General of Pirate Parties International, and to appoint his Deputy or Deputies upon a recommendation of the Secretary General; and to supervise the management of the PPI Headquarters,
- g. to approve the annual budget and ﬁnancial statements of the PPI Headquarters,
- h. to accept the responsibility for the raising of additional funds, and
- i. to exercise other functions resulting from these Statutes.</text:p></text:list-item>
+ a. To act on behalf of the General Assembly between its meetings; to give effect to its decisions, recommendations and policies; and to represent it at international and national events.
+ b. To promote the Pirate Movement throughout the world by means of visits, correspondence, training courses and other appropriate action.
+ c. To advise and assist Member Organizations.
+ d. To recommend the admission of Organizations applying for Membership.
+ e. To prepare the agenda and procedure of the meetings of the General Assembly, giving consideration to suggestions from Member Organizations, and appoint the Chairperson and Vice-Chairperson of the General Assembly meeting.
+ f. To appoint the Secretary General of Pirate Parties International, and to appoint his Deputy or Deputies upon a recommendation of the Secretary General; and to supervise the management of the PPI Headquarters.
+ g. To approve the annual budget and ﬁnancial statements of the PPI Headquarters.
+ h. To accept the responsibility for the raising of additional funds.
+ i. To exercise other functions resulting from these Statutes.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">The Board performs actions according to the decisions of the General Assembly and the spirit of the Pirate Movement.</text:p></text:list-item>
 <text:list-item>
@@ -486,7 +536,7 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:list-item>
 <text:p text:style-name="P2">The Board meetings are public unless at least one third of the Members of the Board vote in favor of a non-public meeting. The decision to hold a non-public meeting must be justified. Minutes of public meetings have to be published not less than two weeks after the meeting. The Board has to inform the General Assembly on its next meeting on the fact of non-public meetings.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">A Board member may resign at any moment. After resignation, death, long term disease or if a Member of the Board does not execute its functions for more than three months, his seat becomes vacant. If the seat has neither become vacant by resignation nor death of the Board Member the remaining Board Members have to declare the seat as vacant by majority vote. The concerned Board Member may appeal the decision to the Court of Arbitration within the period of a month. The Court of Arbitration shall pass judgement not later than a month after the appeal was filed. Pending the decision of the Court of Arbitration or until the decision of the Board cannot be appealed anymore the seat shall not be taken by an Alternate Member, but all rights of the concerned Board Member will be suspended.</text:p></text:list-item>
+<text:p text:style-name="P2">A Board member may resign at any moment. After resignation, death, long term disease or if a Member of the Board does not execute its functions for more than three months, their seat becomes vacant. If the seat has neither become vacant by resignation nor death of the Board Member the remaining Board Members have to declare the seat as vacant by majority vote. The concerned Board Member may appeal the decision to the Court of Arbitration within the period of a month. The Court of Arbitration shall pass judgement not later than a month after the appeal was filed. Pending the decision of the Court of Arbitration or until the decision of the Board cannot be appealed anymore the seat shall not be taken by an Alternate Member, but all rights of the concerned Board Member will be suspended.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">If the Board has less than three remaining Members, an extraordinary session of the General Assembly has to be held within the next six months, if an ordinary session is not scheduled within this period.</text:p></text:list-item>
 </text:list>
@@ -496,7 +546,7 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:h text:outline-level="3"><text:bookmark text:name="ppiheadquarters"/>PPI Headquarters<text:bookmark-end text:name="ppiheadquarters"/></text:h>
 
 <text:list text:style-name="L2"><text:list-item>
-<text:p text:style-name="P2">PPI Headquarters shall be incorporated in accordance with the law of the country in which its international headquarters are located in order to enjoy the status of a legal person and a non-profit organization</text:p></text:list-item>
+<text:p text:style-name="P2">PPI Headquarters shall be incorporated in accordance with the law of the country in which its international headquarters are located in order to enjoy the status of a legal person and a non-profit organization.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">The PPI Headquarters shall serve as the Secretariat of Pirate Parties International. It shall comprise the Secretary General of the Pirate Parties International and such staff as the Organization may require. The Secretary General shall be appointed by the Board and shall be the chief administrative officer of Pirate Parties International.</text:p></text:list-item>
 <text:list-item>
@@ -507,8 +557,6 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 
 <text:h text:outline-level="2"><text:bookmark text:name="courtofarbitration"/>Court of Arbitration<text:bookmark-end text:name="courtofarbitration"/></text:h>
 
-<text:h text:outline-level="3"><text:bookmark text:name="courtofarbitration"/>Court of Arbitration<text:bookmark-end text:name="courtofarbitration"/></text:h>
-
 <text:list text:style-name="L2"><text:list-item>
 <text:p text:style-name="P2">The Court of Arbitration shall be constituted by a Council composed of individuals and a deciding Jury composed of all the Ordinary Members.</text:p></text:list-item>
 <text:list-item>
@@ -516,13 +564,13 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:list-item>
 <text:p text:style-name="P2">Complaints may be sent by the organs and officers of the PPI and by the Members. A complaint may be regulated with a fee to be returned if the complaint is reasonable. The complainant may participate in the investigation.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">In particular, the Court of Arbitration has the exclusive power to
- a. issue a preliminary ruling in an urgent matter of its competence,
- b. declare matters of fact when necessary for the functioning of the PPI,
- c. decide the disputes between the officers and the organs of the PPI,
- d. decide on the restrictions on persons who breach the Statutes and the internal regulations and in these cases degrade an official or declare his further incapability to be elected,
- e. decide on the validity of legal acts of the organs of the PPI,
- f. decide on the matters of <text:a xlink:type="simple" xlink:href="#membership">Membership</text:a>.</text:p></text:list-item>
+<text:p text:style-name="P2">In particular, the Court of Arbitration has the exclusive power to:
+ a. Issue a preliminary ruling in an urgent matter of its competence,
+ b. Declare matters of fact when necessary for the functioning of the PPI,
+ c. Decide the disputes between the officers and the organs of the PPI,
+ d. Decide on the restrictions on persons who breach the Statutes and the internal regulations and in these cases degrade an official or declare his further incapability to be elected,
+ e. Decide on the validity of legal acts of the organs of the PPI,
+ f. Decide on the matters of <text:a xlink:type="simple" xlink:href="#membership">Membership</text:a>.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">The Court of Arbitration keeps a Register of Mediators. This register lists the name, contact address, and Party affiliation of the people from the Ordinary Members who are willing to help solve the disputes between the Members. All Members may consult this register and choose a Mediator who can help them solve the dispute.</text:p></text:list-item>
 <text:list-item>
@@ -532,11 +580,11 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:list-item>
 <text:p text:style-name="P2">The Council of the Court of Arbitration shall have between three and seven Members. The provisions concerning the election of the Members of the Board and vacancies apply accordingly.</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">A member of the Board cannot be also a member of the Council of the Court of Arbitration. In case the results in the General Assembly elections would put the person in position to occupy a seat in both Board and Council of the Court of Arbitration, she must immediately relinquish one of the two. In case the person is not able to choose:</text:p></text:list-item>
+<text:p text:style-name="P2">A member of the Board cannot also be a member of the Council of the Court of Arbitration. In case the results in the General Assembly elections would put the person in position to occupy a seat in both Board and Council of the Court of Arbitration, they must immediately relinquish one of the two. In case the person is not able to choose:</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">if she already occupied one of the seats before the General Assembly then she relinquishes this position for the new one,</text:p></text:list-item>
+<text:p text:style-name="P2">If they already occupied one of the seats before the General Assembly then they relinquishes this position for the new one,</text:p></text:list-item>
 <text:list-item>
-<text:p text:style-name="P2">otherwise it is considered by default that she relinquishes any seat position in the Council of the Court of Arbitration.</text:p></text:list-item>
+<text:p text:style-name="P2">Otherwise it is considered by default that they relinquishes any seat position in the Council of the Court of Arbitration.</text:p></text:list-item>
 <text:list-item>
 <text:p text:style-name="P2">The Court of Arbitration keeps a Register of Investigators. This register lists the name, contact address, and Party affiliation of the people from the Ordinary Members who are willing to help investigate on any matter the Court of Arbitration has authority on. All Members and PPI officers may consult this register and ask, anonymously or not, an Investigator to constitute a file. Any Investigator can ask the Court of Arbitration to rule on a case. Members of the Court of Arbitration or of the Board cannot be Investigators.</text:p></text:list-item>
 </text:list>
@@ -546,9 +594,9 @@ i. to define specific, measurable, achievable, relevant and time-framed goals fo
 <text:h text:outline-level="3"><text:bookmark text:name="funding"/>Funding<text:bookmark-end text:name="funding"/></text:h>
 
 <text:p text:style-name="Standard">Pirate Parties International expenditure shall be covered by:
-a. affiliation fees from the Ordinary Members parties and those with Observer status,
-b. donations, or
-c. other legal contributions.</text:p>
+* Affiliation fees from the Ordinary Members parties and those with Observer status.
+* Donations.
+* Other legal contributions.</text:p>
 
 <text:h text:outline-level="3"><text:bookmark text:name="affiliationfees"/>Affiliation Fees<text:bookmark-end text:name="affiliationfees"/></text:h>
 
@@ -573,7 +621,7 @@ c. other legal contributions.</text:p>
 <text:list text:style-name="L2"><text:list-item>
 <text:p text:style-name="P2">Those officials empowered to operate the bank accounts of Pirate Parties International have the authority to borrow money as follows:
  a. Up to ten percent of the annual budget needs the approval of the Secretary General.
- b. Over ten percent of the annual budget needs the approval of threequarters of the Board.</text:p></text:list-item>
+ b. Over ten percent of the annual budget needs the approval of three quarters of the Board.</text:p></text:list-item>
 </text:list>
 
 <text:h text:outline-level="3"><text:bookmark text:name="layauditors"/>Lay Auditors<text:bookmark-end text:name="layauditors"/></text:h>
